@@ -3,4 +3,6 @@ I am creating this because i am the learner to the git rep.
 
 
 Now i am in different branch.
+After the merge of the new_branch 
+Its Done.
 
